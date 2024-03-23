@@ -1,0 +1,10 @@
+/* TEAM */
+    The project has been developed by the contribution of the following people
+
+	webndevs
+	Contact: webndevs [at] gmail [dot] com
+	Twitter: @webndevs
+	Website: http://webndevs.com
+	From: Jaipur, India
+
+/* THANKS */

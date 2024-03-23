@@ -1,0 +1,13 @@
+{
+    "name": "PaymentReceived",
+    "alias": "paymentreceived",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymentReceived\\Providers\\PaymentReceivedServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "AddInvoice",
+    "alias": "addinvoice",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AddInvoice\\Providers\\AddInvoiceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

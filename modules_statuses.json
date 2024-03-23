@@ -1,0 +1,14 @@
+{
+    "Article": true,
+    "Tag": true,
+    "Comment": true,
+    "Contact": true,
+    "Reminder": true,
+    "CUSTOMER": true,
+    "Customer": true,
+    "Plan": true,
+    "AddInvoice": true,
+    "PaymentReceived": true,
+    "Group": true,
+    "Company": true
+}
